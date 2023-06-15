@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a novice developer learning mobile applications. I create my small projects in Flutter. I am also very willing to cooperate :)
+🔭 I’m currently working on my own mobile apps.<br>🌱 I’m currently learning Flutter and Firebase<br>💬 Let's talk about programming, flutter and mobile apps.<br>⚡ Fun fact: I working on my app "MeetUp" and I think it will become a very recognizable application
 
 
 ## 🌐 Socials:
