@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m cybersecurity student.<br>🌱 I’m currently learning C++<br>💬 Let's talk about programming.<br>⚡ Fun fact: I have a good idea about mobile app and I will show it all world!.
+🔭 I’m cybersecurity student.<br>🌱 I’m currently learning C++<br>💬 Let's talk about programming.<br>⚡ Fun fact: I have a good idea about mobile app and I will show it all world!
 
 
 ## 🌐 Socials:
